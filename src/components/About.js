@@ -7,14 +7,10 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Kyle Domingo.
-            <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+            <br className="hidden lg:inline-block" />
           </h1>
           <p className="mb-8 leading-relaxed">
-            From sleek, modern websites to dynamic, scalable applications, I
-            bring your ideas to life with precision and passion. Let’s create
-            something incredible together — tailored just for your needs and
-            vision.
+            The greatest techincian that ever lived~!
           </p>
           <div className="flex justify-center">
             <a
@@ -35,7 +31,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded-full"
             alt="hero"
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7N_-tv1TAZ7hYCqFLVV4oQ1XNTwFn__OzJw&s"
+            src="https://mail.google.com/mail/u/0?ui=2&ik=d41033f365&attid=0.1&permmsgid=msg-f:1816492435516740517&th=19357a3ef428d3a5&view=fimg&fur=ip&permmsgid=msg-f:1816492435516740517&sz=s0-l75-ft&attbid=ANGjdJ9V3Gr67jqPof16TdkBITy3HYfG1R8H7e-WgHJNQESEbUc4LuHQa_bZjMu6gJjFdU03y2OA1pUKOs-8h6G5E7YGPJjb0e_SI32RPPG9vFcy34X4VbAQrE2KbUQ&disp=emb&realattid=19357a3b454d5e42f231&zw"
           />
         </div>
       </div>

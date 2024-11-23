@@ -1,25 +1,25 @@
 export const projects = [
   {
-    title: "WordQuest",
-    subtitle: "Spelling RPG",
+    title: "Credly",
+    subtitle: "Certificates",
     description:
       "A story driven game filled with puzzles and riddles in order to lift the Dragonlord's",
     image:
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/363890/capsule_616x353.jpg?t=1731551278",
-    link: "https://github.com/kentbrianbravo/ts",
+      "https://images.credly.com/images/c4689f29-3940-42ca-823e-340ea05dd936/blob",
+    link: "https://www.credly.com/users/kyle-andrei-domingo",
   },
   {
-    title: "Live ShoutCaster",
-    subtitle: "Esport ShoutCaster",
+    title: "Micro Streamer",
+    subtitle: "Esport ShoutCaster, and Online Streamer",
     description:
-      "Your trusty Esports event that can bring life to your game!",
+      "Your trusty Esports Shoutcaster that can bring life to your game!",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4y-rJFltc7Mf1wmm9Hw8bWnEeaNsVwCbNhw&s",
-    link: "https://github.com/kentbrianbravo/ts",
+    link: "https://www.facebook.com/share/1GCHUs6TdX/?mibextid=LQQJ4d",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "My Online Respository",
+    subtitle: "Github",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image:
